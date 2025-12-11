@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GopherSlayer425
-- 👀 I’m interested in data analysis and visualization, coding, machine learning, the outdoors, and more!
+- 👀 I’m interested in data analysis and visualization, coding, machine learning, the outdoors, and more! I love to design and create thoughtfully across a wide range of interests.
 
-- 🌱 I’m currently learning... Python, Machine Learning, Godot 4, Blender, Krita, Inkscape, Wordpress
+- 🌱 I’m currently learning... Python, Machine Learning, Godot 4, Blender, Krita, Inkscape, LangChain, HuggingFace
 
 - 💞️ I’m looking to collaborate on small projects that are geared towards fun
 
