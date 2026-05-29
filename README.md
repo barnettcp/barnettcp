@@ -24,7 +24,7 @@
 
 - 😄 Pronouns: He/Him
 
-- ⚡ Fun fact: I thought I wanted to be a software developer until I found coding hard to grasp in community college. I ended up studying mathematics and eventually found my way back to coding through data science. That may have been the long way around, but it's been fun.
+- ⚡ Fun fact: It seems I code less when the weather gets nicer!
 
 <!---
 barnettcp/barnettcp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
